@@ -98,8 +98,8 @@ I'd love to hear from you!
 - <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg" alt="nonso" height="30" width="40" />**Youtube** : <a href="https://www.youtube.com/c/cinoxio" target="blank" rel="nofollow">[@cinoxio]</a>
 - <a href="mailto:cinonsokafor@gmail.com">cinonsokafor@gmail.com</a>, **<a href="https://wa.me/+2347026704155">+2347026704155</a>**
 - <a href="https://www.linkedin.com/in/cinoxio" target="blank" rel="nofollow">**LinkedIn**: Linkedin: [@cinoxio]</a>
-- <a href="https://instagram.com/cinoxio" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="code.bucks" height="30" width="40" />**Instagram** : [@cinoxio]</a>
-- <a href="https://fb.com/chinonso-okafor" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="codebucks27" height="30" width="40" />Chinonso James Okafor</a>
+- <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="code.bucks" height="30" width="40" />**Instagram** : <a href="https://instagram.com/cinoxio" target="blank" rel="nofollow">[@cinoxio]</a>
+- <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="codebucks27" height="30" width="40" />**Facebook**: <a href="https://fb.com/chinonso-okafor" target="blank" rel="nofollow">Chinonso James Okafor</a>
 
 
 </br>
