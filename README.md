@@ -91,11 +91,13 @@ I'm always excited to collaborate on interesting projects and connect with fello
 I'd love to hear from you!
 
 ### 📫 How to reach me:
-- 💼 **LinkedIn**: [Your LinkedIn Profile]
+- 💼 **LinkedIn**:<a href="www.linkedin.com/in/cinoxio" target="blank">Chinonso Jame Okafor</a>
 - 📧 **Email**: [cinonsokafor@gmail.com, nonsokafordev@gmail.com]
-- 🌐 **Portfolio**: [nonsokafor.vercel.app]
-- 🐦 **Twitter**: [@cinoxio]
+- 🌐 **Portfolio**: <a href="https://www.nonsokafor.vercel.app" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="code_bucks" height="30" width="40" />[nonsokafor.vercel.app]</a>
+- 🐦 **Twitter** :<a href="https://twitter.com/decibon" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="code_bucks" height="30" width="40" />[@cinoxio]</a>
 - <a href="https://www.youtube.com/c/cinoxio" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg" alt="nonso" height="30" width="40" />[@cinoxio]</a>
+- <a href="mailto:cinonsokafor@gmail.com">cinonsokafor@gmail.com</a>, **<a href="https://wa.me/+2347026704155">+2347026704155</a>**
+- <a href="https://www.linkedin.com/in/cinoxio" target="blank" rel="nofollow">**LinkedIn**: Linkedin: [@cinoxio]</a>
 
 
 <h3 align="left">▶ Connect with me:</h3>
@@ -103,9 +105,8 @@ I'd love to hear from you!
 <!--<a href="https://nonsokafor.vercel.app" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg" alt="codebucks27" height="30" width="40" /></a>-->
 <a href="https://www.linkedin.com/in/chinonso-okafor" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="CodeBucks" height="30" width="40" /></a>
 <a href="https://instagram.com/decibon" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="code.bucks" height="30" width="40" /></a>
-<a href="https://twitter.com/decibon" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="code_bucks" height="30" width="40" /></a>
+
 <a href="https://fb.com/chinonso-okafor" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="codebucks27" height="30" width="40" /></a>
-<a href="mailto:cinonsokafor@gmail.com">cinonsokafor@gmail.com</a>, **<a href="https://wa.me/+2347026704155">whatsapp: +2347026704155</a>, +2347063603330 
 </p>
 </br>
 
