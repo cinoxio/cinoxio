@@ -96,19 +96,16 @@ I'd love to hear from you!
 - 🌐 **Portfolio**: <a href="https://www.nonsokafor.vercel.app" target="blank" rel="nofollow">[nonsokafor.vercel.app]</a>
 - 🐦 **Twitter** :<a href="https://twitter.com/cinoxio" target="blank" rel="nofollow">@cinoxio]</a>
 - <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg" alt="nonso" height="30" width="40" />**Youtube** : <a href="https://www.youtube.com/c/cinoxio" target="blank" rel="nofollow">[@cinoxio]</a>
-- <img align="left" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/whatsapp.svg" alt="code.bucks" height="30" width="40" />  ** <a href="https://wa.me/+2347026704155">+2347026704155</a>**
-- <img align="left" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linkedin.svg" alt="code.bucks" height="30" width="40" />**Linkedin**:<a href="https://www.linkedin.com/in/cinoxio" target="blank" rel="nofollow">**LinkedIn**: Linkedin: [@cinoxio]</a>
+- <img align="left" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/whatsapp.svg" alt="code.bucks" height="30" width="40" /> **Whatsapp** :<a href="https://wa.me/+2347026704155">+2347026704155</a>
+- <img align="left" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linkedin.svg" alt="code.bucks" height="30" width="40" />**Linkedin** :<a href="https://www.linkedin.com/in/cinoxio" target="blank" rel="nofollow">**LinkedIn**: Linkedin: [@cinoxio]</a>
 - <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="code.bucks" height="30" width="40" />**Instagram** : <a href="https://instagram.com/cinoxio" target="blank" rel="nofollow">[@cinoxio]</a>
 - <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="codebucks27" height="30" width="40" />**Facebook**: <a href="https://fb.com/chinonso-okafor" target="blank" rel="nofollow">Chinonso James Okafor</a>
 
 
 </br>
 
-
-
-##📫 **cinonsokafor@gmail.com**, **nonsokafor@gmail.com**, **info@nonsokafor.com**
-
 </br>
+
 
 <h3 align="left">▶ Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="nofollow"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/babel-10.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="nofollow"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> 
