@@ -91,11 +91,11 @@ I'm always excited to collaborate on interesting projects and connect with fello
 I'd love to hear from you!
 
 ### 📫 How to reach me:
-- 💼 **LinkedIn**:<a href="https://www.linkedin.com/in/cinoxio" target="blank">Chinonso Jame Okafor</a>
-- 📧 **Email**: <a href="mailto: [cinonsokafor@gmail.com, nonsokafordev@gmail.com]
-- 🌐 **Portfolio**: <a href="https://www.nonsokafor.vercel.app" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="code_bucks" height="30" width="40" />[nonsokafor.vercel.app]</a>
-- 🐦 **Twitter** :<a href="https://twitter.com/decibon" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="code_bucks" height="30" width="40" />[@cinoxio]</a>
-- <a href="https://www.youtube.com/c/cinoxio" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg" alt="nonso" height="30" width="40" />[@cinoxio]</a>
+- 💼 **LinkedIn**:<a href="https://www.linkedin.com/in/cinoxio" target="blank">**Chinonso Jame Okafor**</a>
+- 📧 **Email**: <a href="mailto:cinonsokafor@gmail.com">**cinonsokafor@gmail.com, nonsokafordev@gmail.com**</a>
+- 🌐 **Portfolio**: <a href="https://www.nonsokafor.vercel.app" target="blank" rel="nofollow">[nonsokafor.vercel.app]</a>
+- 🐦 **Twitter** :<a href="https://twitter.com/cinoxio" target="blank" rel="nofollow">@cinoxio]</a>
+- <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg" alt="nonso" height="30" width="40" />**Youtube** : <a href="https://www.youtube.com/c/cinoxio" target="blank" rel="nofollow">[@cinoxio]</a>
 - <a href="mailto:cinonsokafor@gmail.com">cinonsokafor@gmail.com</a>, **<a href="https://wa.me/+2347026704155">+2347026704155</a>**
 - <a href="https://www.linkedin.com/in/cinoxio" target="blank" rel="nofollow">**LinkedIn**: Linkedin: [@cinoxio]</a>
 - <a href="https://instagram.com/cinoxio" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="code.bucks" height="30" width="40" />**Instagram** : [@cinoxio]</a>
