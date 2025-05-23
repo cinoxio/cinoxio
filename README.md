@@ -8,7 +8,7 @@ Since transitioning to tech in 2022, I've been dedicated to mastering modern web
 
 ## 💼 Professional Background
 
-- 🎓 **Education**: History and International Studies from a prestigious Nigerian university (2014)
+- 🎓 **Education**: History and International Studies from the prestigious Nigerian university, Nnamdi Azikiwe University, Awka, Anambra State Nigeria (2010 - 2014)
 - 🏦 **Banking Experience**: Gained valuable sales and organizational discipline skills
 - 🚛 **Logistics Management**: Transport Assistant Manager at Abiinbev (International Brewery Company)
   - Monitored ferrier operations and transport activities
