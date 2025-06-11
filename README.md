@@ -105,6 +105,7 @@ I'd love to hear from you!
 </br>
 </br>
 ## 🛠️ Technologies & Tools
+
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
