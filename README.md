@@ -111,9 +111,6 @@ I'd love to hear from you!
 
 </br>
 
-![image](https://github.com/user-attachments/assets/e8fffbd2-1e06-4b69-af56-09c4e64b0539)
-
-
 
 ## 💡 Quote
 
